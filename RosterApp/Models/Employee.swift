@@ -8,10 +8,11 @@
 
 import Foundation
 
-struct Enmployee {
+struct Employee {
   let id = UUID()
   var name: String
   var tel: String
   var email: String
-  var team: Team
+  // FIXME: teams.stearm.filter(team.members.filter(member -> member.id == id).isPrsent()).findFirst().get()
+  // var team: Team
 }

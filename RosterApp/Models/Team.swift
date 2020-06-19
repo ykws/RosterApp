@@ -12,5 +12,5 @@ struct Team {
   let id = UUID()
   var name: String
   var description: String
-  var members: [Enmployee]
+  var members: [Employee]
 }
