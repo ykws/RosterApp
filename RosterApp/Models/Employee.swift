@@ -13,6 +13,7 @@ struct Employee {
   var name: String
   var tel: String
   var email: String
+  var online: Bool
   // FIXME: teams.stearm.filter(team.members.filter(member -> member.id == id).isPrsent()).findFirst().get()
   // var team: Team
 }
