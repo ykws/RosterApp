@@ -22,6 +22,7 @@
 * Leave from Team
 
 ### Team
+#### Property
 * Name
 * Description
 
